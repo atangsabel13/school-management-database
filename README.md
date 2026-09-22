@@ -2,6 +2,8 @@
 
 A relational database for a Nigerian secondary/primary school, modeling classes, teachers, students, subjects, and exam scores — built as the SQL for Data Analysis programme mini-project.
 
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
